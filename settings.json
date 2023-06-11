@@ -1,0 +1,15 @@
+{
+  "masterContract": "0xed7e73df79149d648f0975978b138c43e73bbb6e",
+  "httpProvider": "https://hpbnode.com",
+  "etherscanUrl": "https://hscan.org",
+  "contractUpdateInterval": {
+    "seconds": 3
+  },
+  "randomNumberWaitTime": {
+    "seconds": 60
+  },
+  "dangerModeStartTime": {
+    "minutes": 3,
+    "seconds": 0
+  }
+ }
